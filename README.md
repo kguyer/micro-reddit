@@ -1,24 +1,8 @@
 # README
+The purpose of this app is to get some practice with using the Rails console. This has nothing to show in the browser
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Ruby Version
+3.2.2
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Rails Version
+7.0.5
